@@ -1,0 +1,19 @@
+.App {
+    text-align: center;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  .image-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  img {
+    width: 45%;
+    margin: 5px;
+  }
+  
